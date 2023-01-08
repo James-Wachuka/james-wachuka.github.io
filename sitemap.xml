@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://james-wachuka.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://james-wachuka.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://james-wachuka.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://james-wachuka.github.io/work/data-warehouse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://james-wachuka.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://james-wachuka.github.io/work/mysql-gcp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://james-wachuka.github.io/work/</loc>
+  </url>
+  
+  <url>
+    <loc>https://james-wachuka.github.io/work/python-etl/</loc>
+  </url>
+  
+  <url>
+    <loc>https://james-wachuka.github.io/work/python-tweepy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://james-wachuka.github.io/work/sentiment-analysis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://james-wachuka.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://james-wachuka.github.io/work/python-telegram/</loc>
+  </url>
+  
+  <url>
+    <loc>https://james-wachuka.github.io/work/tweepy-airflow/</loc>
+  </url>
+  
+</urlset>
